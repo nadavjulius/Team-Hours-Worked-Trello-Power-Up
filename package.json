@@ -7,5 +7,12 @@
   "description": "a powerup to track when team members came and left a job by numbers",
   "main": "index.js",
   "repository": "git@github.com:nadavjulius/Team-Hours-Worked-Trello-Power-Up.git",
-  "license": "MIT"
+  "author": "Nadav JUlius <nadavjulius.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/html/*.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
