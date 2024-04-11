@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "stable": "^0.1.8"
+  },
+  "name": "Team-Hours-Worked-Trello-Power-Up",
+  "version": "1.0.0",
+  "description": "a powerup to track when team members came and left a job by numbers",
+  "main": "index.js",
+  "repository": "git@github.com:nadavjulius/Team-Hours-Worked-Trello-Power-Up.git",
+  "license": "MIT"
+}
